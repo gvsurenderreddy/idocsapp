@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+    <!-- Blog principal inicio-->
+    <div class="container">
+        <div class="row">
+            <div class="blog-header col-md-8">
+
+                <h1 class="blog-title" style="margin-top: 100px;">Lógica suporte</h1>
+
+                <p class="lead blog-description">Fundada em agosto de 2008, a Lógica suporte é especializada na
+                    distribuição
+                    <br>do software Desbravador, implantando, treinando e prestando suporte
+                    <br>aos clientes com toda qualidade exigida pelo o mercado.
+                    <br>Também desenvolvemos projetos e serviços de tecnologia colaborativa,
+                    <br>propondo soluções integradas, com o objetivo de facilitar decisões
+                    <br>e ações dos profissionais ligados ao negócio.
+                </p>
+            </div>
+            <div class="blog-header col-md-4">
+                <h1><i class="fa fa-globe" style="font-size: 250px;margin-top: 25%;color: #337AB7;"></i></h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <ol class="breadcrumb">
+                    <li><a href="{% url 'site:index' %}">Home</a>
+                    </li>
+                    <li class="active">Empresa</li>
+                </ol>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8 blog-main">
+                <div class="blog-post">
+                    <h2 class="blog-post-title">Nosso Negócio</h2>
+
+                    <p>"Garantir automação e poder de gestão com base nas melhores práticas empresariais,
+                        aliada a parceiros da vanguarda da área de tecnologia da informação, para o segmento hoteleiro,
+                        gastronômico, motel,
+                        postos de gasolina e outros, com excelente custo benefício, em conjunto com gente que cuida de
+                        gente, permitindo uma
+                        completa integração entre todos".</p>
+                    <hr>
+                    <h2 class="blog-post-title">Missão</h2>
+
+                    <p>Ser a melhor opção de apoio para empresas de tecnologia da informação, detendo inteligência
+                        competitiva de forma a manter parcerias duradouras. Buscando sempre inovações no mercado com o
+                        foco
+                        na satisfação dos clientes.</p>
+                    <hr>
+                    <h2 class="blog-post-title">Visão</h2>
+
+                    <p>Unir o que existe de melhor da tecnologia da informação objetivando desenvolver as melhores
+                        práticas
+                        de gestão empresarial, gerando poder de decisão e diferenciais competitivos a todos os
+                        interessados.</p>
+                    <hr>
+                    <h2 class="blog-post-title">Valores</h2>
+
+                    <p>Os valores que representam a Lógica Suporte são:</p>
+                    <ul>
+                        <li>Conhecimento</li>
+                        <li>Verdade</li>
+                        <li>Comprimisso</li>
+                        <li>Fé</li>
+                        <li>Responsabilidade</li>
+                    </ul>
+
+                    <p style="margin-top: 40px;">“Perder tempo em aprender coisas que não interessam, priva-nos de
+                        descobrir coisas
+                        interessantes.”<br>
+                        <em style="margin-left: 55%;">Carlos Drummond De Andrade</em>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1 blog-sidebar" style="margin-left: 7.333333%;">
+                <div class="sidebar-module sidebar-module-inset">
+                    <img src="{% static 'images/talente center.jpg' %}" alt="latest Little Neko news"
+                         id="footerLogo" style="width: 261px;">
+                    <h4>Edifício Talent Center</h4>
+
+                    <p>Rua João Carvalho, 800 - Aldeota,
+                        </br>CEP: 60140-140,
+                        <em>Fortaleza - CE, Brasil</em>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr class="featurette-divider-footer">
+{% endblock %}

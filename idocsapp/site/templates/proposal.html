@@ -1,0 +1,58 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+    <div class="container">
+        <div class="blog-header">
+            <h1 class="blog-title" style="margin-top: 100px;">Solicite sua proposta</h1>
+
+            <p class="lead blog-description">
+                Por favor preencher todos os dados a seguir que em breve retornaremos o contato
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-sm-8 blog-main">
+                <div class="blog-post">
+                    {% if is_valid %}
+                        <h1 class="featurette-heading" style="color: blue;margin-top: 10px;">Formulário enviado com
+                            sucesso!<span><i
+                                    class="fa fa-thumbs-o-up"></i></span></h1>
+
+                    {% endif %}
+                    <form role="form" method="post" action="#">
+                        {% csrf_token %}
+                        {% for field in form %}
+                            <div class="form-group">
+                                {{ field.label_tag }}
+                                {{ field }}
+                                {% if field.errors %}
+                                    <ul class="errorlist" style="color: red">
+                                        {% for error in field.errors %}
+                                            <li>{{ error }}</li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
+                            </div>
+                        {% endfor %}
+                        <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                style=" padding-top: 5px; padding-bottom: 5px;margin-bottom: 29px;">Enviar
+                        </button>
+                        <div class="g-recaptcha" -dados SiteKey="6LfDnRYTAAAAAM9F0Jlb0ufYEIj3E0PsOAuF3A9M"></div>
+                    </form>
+                    <hr>
+                </div>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+                <div class="sidebar-module sidebar-module-inset">
+                    <img src="{% static 'images/icon-proposta.png' %}" alt="latest Little Neko news"
+                         id="footerLogo" style="width: 261px;">
+                    <h4>Lógica suporte</h4>
+
+                    <p>Qualquer duvida entrar em contato também por telefone
+                        <em>(85) 3038-8600</em>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

@@ -1,0 +1,296 @@
+{% load static %}
+{% load social_widgets %}
+<!DOCTYPE html>
+<html lang="pt-br" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<head>
+
+    <!-- Config -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Custom CSS -->
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/site/style.css' %}" rel="stylesheet">
+    {% block extrastyle %}{% endblock %}
+    <!-- Icon TAB -->
+    <link rel="icon" href="{% static 'images/favicon.ico' %}">
+    {% block extraicon %}{% endblock %}
+    <!-- Custom Fonts -->
+    <link href="{% static 'fonts/font-awesome/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet'
+          type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    {% block extrafonts %}{% endblock %}
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <title>Lógica Suporte {% block extratitle %}{% endblock %}</title>
+
+</head>
+<body id="page-top" class="index">
+<!-- NAVBAR-->
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-menu">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/">
+                <img alt="Brand" class="imglogo" src="{% static 'images/logo-logica-grande-alta-trasnp.png' %}">
+            </a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse" style="font-size: 18px;">
+            <ul class="nav navbar-nav" style="float: right;">
+                <li><a href="/">Início</a></li>
+                <li><a href="{% url 'site:company' %}">Institucional</a></li>
+                <li><a href="{% url 'site:contacts' %}">Fale Conosco</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                       aria-haspopup="true"
+                       aria-expanded="false">Área do cliente<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header">Suporte técnico</li>
+                        <li>
+                            <a href="http://servicos.desbravador.com.br/portal/data/administrativo/logins/cli_login.php"
+                               target="_blank">Financeiro</a>
+                        </li>
+                        <li><a href="{% url 'site:download' %}">Downloads</a></li>
+                        <li><a href="http://www.desbravador.com.br/br/empresa_suporte.php" target="_blank">Telefones
+                            úteis</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li class="dropdown-header">Comercial</li>
+                        <li><a href="/#portfolio">Portfólio</a></li>
+                        <li><a href="/#recent-works">Mailing</a></li>
+                    </ul>
+                </li>
+                <li><a href="{% url 'account:login' %}">Login do Colaborador</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+{% block content %}{% endblock %}
+
+<!-- FOOTER -->
+<footer class="footer" id="footerWrapper">
+    <section id="mainFooter">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="sombra">
+                        <a class="a" href="#">
+                            <img class="img-logo-footer"
+                                 src="{% static 'images/logo-logica-grande-alta-trasnp.png' %}"
+                                 alt="latest Little Neko news"
+                                 id="footerLogo">
+                        </a>
+
+                        <p>Este site está disponivel para auxiliar
+                            clientes e colaboradores junto aos sistemas Desbravador.</p>
+                    </div>
+
+                    <p><i class="fa fa-map-marker" style="color:#337AB7"></i>
+                        <abbr title="addr">End</abbr>:
+                        Rua João carvalho, 800 Fortaleza, CE 60811-020
+                    </p>
+
+                    <p><i class="fa fa-phone" style="color: #337AB7"></i>
+                        <abbr title="Phone">Tel</abbr>: (85) 3038-8600 / (84) 3642-3047 / (82) 3313-5455</p>
+
+                    <p><i class="fa fa-envelope-o" style="color: #337AB7"></i>
+                        <abbr title="Email">E-mail</abbr>: <a href="mailto:atendimento@logicasuporte.com.br">atendimento@logicasuporte.com.br</a>
+                    </p>
+
+                    <p>
+                        Copyright © 2015 <a class="c" href="#" target="blank">Lógica suporte</a> / Todos
+                        os direitos reservados.
+                    </p>
+
+                    <p>
+                        Desenvolvido por J@lsTeam / <a class="a" href="https://twitter.com/@jales_sales"
+                                                       target="_blank">@jales_sales</a>
+                    </p>
+                </div>
+                <div class="col-sm-3">
+                    <h3>Siga-nos!</h3>
+                    <ul class="list-unstyled list-inline list-social-icons" style="margin-bottom: 0px;">
+                        <li>
+                            <a href="https://www.facebook.com/L%C3%B3gicaSuporte-199828220103327/?fref=ts"
+                               target="blank"><i
+                                    class="fa fa-facebook-square fa-2x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                        </li>
+                    </ul>
+                    {% social_widget_render 'facebook/likebox.html' href='https://www.facebook.com/L%C3%B3gicaSuporte-199828220103327/?fref=ts' %}
+                </div>
+                <div class="col-sm-3" style="margin-left: 50px;">
+                    <h4>Colaboradores</h4>
+                    <ul class="list-unstyled list-inline list-social-icons">
+                        <li>
+                            <a href="https://www.facebook.com/carolina.mortari.3?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/carol.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/profile.php?id=100000236087330&fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/charles.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/claudia.kohl.37?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/claudia.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/eduardo.iranilson?pnref=friends.search"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/eduardo.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/elvanio?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/elvanio.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/giovani.paludoguerra?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/giovani.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/gmortari?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/gustavo.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/gutonicacio?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/guto.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/jales.holanda.7"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/jales.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/profile.php?id=100009323882078&fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/jessica.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/leopoldopeixoto.cardoso?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/leopoldo.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/lorena.prado.543?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/lorena.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/maxsuelder.nogueira?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/Colaboradores/max.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-1" style="padding-left: 0px;">
+                    <h4>Autorizado:</h4>
+                    <a href="http://www.desbravador.com.br/br/index.php" target="_blank">
+                        <img class="img-logo-desbra-footer"
+                             src="{% static 'images/logo-desbravador-pequena-baixa.png' %}">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+<!-- Bootstrap core JavaScript -->
+{% block extrajs %}{% endblock %}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{% static 'js/ie-emulation-modes-warning.js' %}"></script>
+<script src="{% static 'js/bootstrap.min.js' %}"></script>
+<script src="{% static 'js/holder.min.js' %}"></script>
+<script src="{% static 'js/ie10-viewport-bug-workaround.js' %}"></script>
+
+<script>
+    $(document).ready(function () {
+        // Add smooth scrolling to all links in navbar + footer link
+        $("a.page-scroll, footer a[href='#myPage']").on('click', function (event) {
+            // Prevent default anchor click behavior
+            event.preventDefault();
+
+            // Store hash
+            var hash = this.hash;
+
+            // Using jQuery's animate() method to add smooth page scroll
+            // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+            $('html, body').animate({
+                scrollTop: $(hash).offset().top
+            }, 900, function () {
+
+                // Add hash (#) to URL when done scrolling (default click behavior)
+                window.location.hash = hash;
+            });
+        });
+
+        // Slide in elements on scroll
+        $(window).scroll(function () {
+            $(".slideanim").each(function () {
+                var pos = $(this).offset().top;
+
+                var winTop = $(window).scrollTop();
+                if (pos < winTop + 600) {
+                    $(this).addClass("slide");
+                }
+            });
+        });
+    })
+</script>
+</body>
+</html>

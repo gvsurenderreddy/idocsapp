@@ -1,0 +1,289 @@
+{% extends 'basesystem.html' %}
+{% load static %}
+{% block content %}
+    <!-- Right side column. Contains the navbar and content of the page -->
+    <aside class="right-side">
+        <!-- Content Header (Page header) -->
+        <section class="content-header">
+            <h1>
+                Hotelaria
+                <small>Docs</small>
+            </h1>
+            <ol class="breadcrumb">
+                <li><a href="/"><i class="fa fa-sitemap"></i> Site</a></li>
+                <li><a href="{% url 'system:dashboard' %}"><i class="fa fa-dashboard"></i>Dashboard</a></li>
+                <li class="active">Hotelaria</li>
+            </ol>
+        </section>
+
+        <!-- Main content -->
+        <section class="content">
+            <p class="pull-right visible-xs">
+                <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+            </p>
+            <div class="jumbotron" style="padding-left: 2%;">
+                <h1 class="fa fa-bed fa-5x">Hotelaria</h1>
+
+                <p>Nesta página encontra-se as documentações necessárias para os assuntos dos sistemas hoteleiros e seus
+                    aplicativos</p>
+            </div>
+
+            <h4 class="page-header">
+                Vejas os documentos a seguir
+            </h4>
+            <!-- Solid boxes -->
+            <div class="row">
+                <div class="col-md-4">
+                    <!-- Default box -->
+                    <div class="box box-solid">
+                        <div class="box-header">
+                            <h3 class="box-title">Desbravador 4.1 e 3.1</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-default btn-sm" data-widget="collapse"><i
+                                        class="fa fa-minus"></i></button>
+                                <button class="btn btn-default btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinada a toda documentação do sistema 4.1/3.1 da desbravador.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+
+                <div class="col-md-4">
+                    <!-- Primary box -->
+                    <div class="box box-solid box-primary">
+                        <div class="box-header">
+                            <h3 class="box-title">Desbravador Light3</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-primary btn-sm" data-widget="collapse"><i
+                                        class="fa fa-minus"></i></button>
+                                <button class="btn btn-primary btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinada a toda documentação do sistema Light3 da desbravador.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+
+                <div class="col-md-4">
+                    <!-- Info box -->
+                    <div class="box box-solid box-info">
+                        <div class="box-header">
+                            <h3 class="box-title">Desbravador Easy special</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-info btn-sm" data-widget="collapse"><i class="fa fa-minus"></i>
+                                </button>
+                                <button class="btn btn-info btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinada a toda documentação do sistema Light3 da desbravador.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+
+            <div class="row">
+                <div class="col-md-4">
+                    <!-- Danger box -->
+                    <div class="box box-solid box-danger">
+                        <div class="box-header">
+                            <h3 class="box-title">Reservas on-line</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-danger btn-sm" data-widget="collapse"><i class="fa fa-minus"></i>
+                                </button>
+                                <button class="btn btn-danger btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinada a toda documentação do ROL.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+
+                <div class="col-md-4">
+                    <!-- Success box -->
+                    <div class="box box-solid box-success">
+                        <div class="box-header">
+                            <h3 class="box-title">Gas Station</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-success btn-sm" data-widget="collapse"><i
+                                        class="fa fa-minus"></i></button>
+                                <button class="btn btn-success btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinada a toda documentação do sistema de postos da desbravador.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+
+                <div class="col-md-4">
+                    <!-- Warning box -->
+                    <div class="box box-solid box-warning">
+                        <div class="box-header">
+                            <h3 class="box-title">Fast</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-warning btn-sm" data-widget="collapse"><i
+                                        class="fa fa-minus"></i></button>
+                                <button class="btn btn-warning btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinadas a toda documentação do sistema FAST da desbravador.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-md-4">
+                    <!-- Default box -->
+                    <div class="box box-solid">
+                        <div class="box-header">
+                            <h3 class="box-title">Integrações</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-default btn-sm" data-widget="collapse"><i
+                                        class="fa fa-minus"></i></button>
+                                <button class="btn btn-default btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinada a toda documentação das integrações com os sistemas desbravador.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+
+                <div class="col-md-4">
+                    <!-- Primary box -->
+                    <div class="box box-solid box-primary">
+                        <div class="box-header">
+                            <h3 class="box-title">Banco de dados</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-primary btn-sm" data-widget="collapse"><i
+                                        class="fa fa-minus"></i></button>
+                                <button class="btn btn-primary btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinada a toda documentação relacionada a banco de dados.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+
+                <div class="col-md-4">
+                    <!-- Info box -->
+                    <div class="box box-solid box-info">
+                        <div class="box-header">
+                            <h3 class="box-title">Fiscal, ECF e Nota</h3>
+
+                            <div class="box-tools pull-right">
+                                <button class="btn btn-info btn-sm" data-widget="collapse"><i class="fa fa-minus"></i>
+                                </button>
+                                <button class="btn btn-info btn-sm" data-widget="remove"><i class="fa fa-times"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box-body">
+                            <p>
+                                Área destinada a toda documentação fiscal do sistema desbravador.
+                            </p>
+                            <a href="#" class="small-box-footer">
+                                Clique para os arquivos <i class="fa fa-arrow-circle-right"></i>
+                            </a>
+                        </div>
+                        <!-- /.box-body -->
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </section>
+        <!-- /.content -->
+    </aside><!-- /.right-side -->
+    </div><!-- ./wrapper -->
+{% endblock %}

@@ -1,0 +1,245 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+    <!-- Blog principal inicio-->
+    <div class="container">
+        <div class="row">
+            <div class="blog-header col-md-8">
+
+                <h1 class="blog-title" style="margin-top: 100px;">Downloads</h1>
+
+                <p class="lead blog-description">
+                    Faça os downloads necessarios para atendimento remoto e utilitários nesta página. Veja os links
+                    abaixo:
+                </p>
+            </div>
+            <div class="blog-header col-md-4">
+                <h1><i class="fa fa-download" style="font-size: 200px;margin-top: 25%;color: #337AB7;"></i></h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <ol class="breadcrumb">
+                    <li><a href="{% url 'site:index' %}">Home</a>
+                    </li>
+                    <li class="active">Downloads</li>
+                </ol>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8 blog-main">
+                <div class="blog-post">
+                    <h3 class="blog-post-title" style="margin-bottom: 70px;">Acesso remoto</h3>
+
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="http://download.teamviewer.com/download/TeamViewerQS_pt.exe">
+                                <img class="media-object" src="{% static 'images/icon-teamviewer.jpg' %}" alt="...">
+                            </a>
+                        </div>
+
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Team viewer</h5>
+
+                            <p>Clique em baixar > execute o aplicativo na pasta que você salvou o download >
+                                passe o
+                                ID e a
+                                senha pro analista.
+                            </p>
+                            <a href="http://download.teamviewer.com/download/TeamViewerQS_pt.exe" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Baixar
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="http://70.38.40.189/AA_v3.5.exe">
+                                <img class="media-object" src="{% static 'images/icon-ammyy.png' %}" alt="...">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Ammyy Admin</h5>
+
+                            <p>Clique em baixar > execute o aplicativo na pasta que você salvou o download > passe o
+                                número do ID pro analista.
+                            </p>
+                            <a href="http://70.38.40.189/AA_v3.5.exe" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Baixar
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="http://download3.showmypc.com/ShowMyPC3161.exe">
+                                <img class="media-object" src="{% static 'images/icon-showmypc.png' %}" alt="...">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Show my pc</h5>
+
+                            <p>Clique em baixar > execute o aplicativo na pasta que você salvou o download > clique em
+                                mostrar meu PC passe o número pro analista.
+                            </p>
+                            <a href="http://download3.showmypc.com/ShowMyPC3161.exe" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Baixar
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <h3 class="blog-post-title" style="margin-bottom: 70px;">Utilitários</h3>
+
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="http://www.revouninstaller.com/download-professional-version.php">
+                                <img class="media-object" src="{% static 'images/icon-revo-unistaller.png' %}"
+                                     alt="...">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Revo Unistaller</h5>
+
+                            <p>Livre-se de vez dos programas indesejados e deixe seu PC mais limpo após as
+                                desinstalações
+                            </p>
+                            <a href="http://www.revouninstaller.com/download-professional-version.php" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Baixar
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="http://download.piriform.com/ccsetup417.exe">
+                                <img class="media-object" src="{% static 'images/icon-ccleaner.png' %}"
+                                     alt="...">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Ccleaner</h5>
+
+                            <p>CCleaner é um instrumento para limpar o seu PC.
+                                Ele protege a sua privacidade e faz seu computador mais rápido e mais seguro!</p>
+                            <a href="http://download.piriform.com/ccsetup417.exe" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Baixar
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="http://www.win-rar.com/postdownload.html?&L=0">
+                                <img class="media-object" src="{% static 'images/icon-winrar.png' %}"
+                                     alt="...">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Winrar</h5>
+
+                            <p>
+                                Winrar é uma ferramenta de compressão de dados do Windows que incide sobre os RAR e ZIP
+                                formatos de compressão de dados para todos os usuários do Windows.</p>
+                            <a href="http://www.win-rar.com/postdownload.html?&L=0" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Baixar
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <h3 class="blog-post-title" style="margin-bottom: 70px;">Serviços de armazenamento em nuvem</h3>
+
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="https://db.tt/Pkq71lLy">
+                                <img class="media-object" src="{% static 'images/icon-dropbox.png' %}"
+                                     alt="...">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Dropbox</h5>
+
+                            <p>
+                                O Dropbox é um serviço que mantém seus arquivos seguros, sincronizados e prontos para
+                                compartilhamento fácil.</p>
+                            <a href="https://db.tt/Pkq71lLy" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Crie sua conta
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="http://mega.nz">
+                                <img class="media-object" src="{% static 'images/icon-mega.jpg' %}"
+                                     alt="...">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Mega Nz</h5>
+
+                            <p>
+                                O MEGA é um serviço de armazenamento na rede, ou se preferir, na nuvem, assim como
+                                outros que já conhecemos como o Google Drive, Dropbox e Skydrive.</p>
+                            <a href="http://mega.nz" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Crie sua conta
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="media">
+                        <div class="media-left media-top">
+                            <a href="https://tools.google.com/dlpage/drive/thankyou.html?hl=pt-BR">
+                                <img class="media-object" src="{% static 'images/icon-google-drive.png' %}"
+                                     alt="...">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h5 class="blog-post-title" style="color: #337AB7">Google Drive</h5>
+
+                            <p>
+                                O Google drive é um serviço de armazenamento na nuvem da gigante de busca Google.</p>
+                            <a href="https://tools.google.com/dlpage/drive/thankyou.html?hl=pt-BR" target="_blank">
+                                <button type="submit" class="btn btn-lg btn-primary btn-menu"
+                                        style="margin-bottom: 30px;">
+                                    Crie sua conta
+                                </button>
+                            </a>
+                        </div>
+                    </div>
+                    <hr>
+                    <p align="center">
+                        Todos os aplicativos disponíveis aqui para download tem versões gratuitas e pagas.
+                        Os links para download contidos nesta página, direcionam para o site oficial das empresas
+                        desenvolvedoras dos mesmos.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr class="featurette-divider-footer">
+{% endblock %}
