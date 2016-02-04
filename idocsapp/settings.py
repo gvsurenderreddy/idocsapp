@@ -43,6 +43,7 @@ INSTALLED_APPS = (
     'idocsapp.site',
     'idocsapp.account',
     'idocsapp.system',
+    'gunicorn',
 )
 
 MIDDLEWARE_CLASSES = (
