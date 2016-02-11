@@ -21,8 +21,8 @@ def register(resquest):
 
 
 def login(request):
-    return render(request, 'login.html')
+    return render(request, 'account/login.html')
 
 
 def lockscreen(request):
-    return render(request, 'lockscreen.html')
+    return render(request, 'account/lockscreen.html')

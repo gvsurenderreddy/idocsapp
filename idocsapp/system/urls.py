@@ -15,6 +15,3 @@ urlpatterns = [
     url(r'^calendar/', calendar, name='calendar'),
 
 ]
-
-if settings.DEBUG:
-    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

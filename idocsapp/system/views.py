@@ -8,34 +8,34 @@ from django.contrib.auth.decorators import login_required
 
 @login_required
 def dashboard(request):
-    return render(request, 'dashboard.html')
+    return render(request, 'system/dashboard.html')
 
 
 @login_required
 def hotelariadocs(request):
-    return render(request, 'hotelariadocs.html')
+    return render(request, 'system/hotelariadocs.html')
 
 
 @login_required
 def postodocs(request):
-    return render(request, 'postodocs.html')
+    return render(request, 'system/postodocs.html')
 
 
 @login_required
 def restodocs(request):
-    return render(request, 'restodocs.html')
+    return render(request, 'system/restodocs.html')
 
 
 @login_required
 def institucionaldocs(request):
-    return render(request, 'institucionaldocs.html')
+    return render(request, 'system/institucionaldocs.html')
 
 
 @login_required
 def calendar(request):
-    return render(request, 'calendar.html')
+    return render(request, 'system/calendar.html')
 
 
 @login_required
 def profile(request):
-    return render(request, 'profile.html')
+    return render(request, 'system/profile.html')

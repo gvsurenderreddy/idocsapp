@@ -129,9 +129,21 @@ label {
     }
 }
 
+@media (min-width: 992px) {
+
+    .container {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 100%;
+    }
+}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
-
 .navbar navbar-inverse navbar-fixed-top {
     height: 81px;
 }
@@ -170,6 +182,33 @@ label {
         padding-top: 24px;
         padding-bottom: 15px;
     }
+}
+
+@media (min-width: 962px) {
+
+    .navbar-nav {
+        font-size: 18px;
+        margin: 0;
+    }
+
+}
+
+@media (max-width: 961px) {
+
+    .navbar-nav {
+        font-size: 15px;
+        margin: 0;
+    }
+
+}
+
+@media (min-width: 768px) {
+
+    .navbar-nav {
+        font-size: 13px;
+        margin: 0;
+    }
+
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
