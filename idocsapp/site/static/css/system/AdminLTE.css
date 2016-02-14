@@ -134,6 +134,13 @@ body.fixed .wrapper {
     background: #f9f9f9;
 }
 
+.content-img {
+    background-image: url("../../images/logo-redondo-logica.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40%;
+}
+
 /* Utility */
 /* H1 - H6 font */
 h1,
