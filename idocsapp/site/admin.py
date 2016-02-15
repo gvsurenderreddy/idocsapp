@@ -1,7 +1,7 @@
 from django import forms
 from django.contrib import admin
 
-from idocsapp.site.models import Contact, Documents
+from idocsapp.site.models import Contact
 
 
 class ContactsForm(forms.ModelForm):
@@ -23,13 +23,4 @@ class ContactsAdmin(admin.ModelAdmin):
     prepopulated_fields = {'contact_slug': ('contact_name',)}
 
 
-class DocumentsAdmin(admin.ModelAdmin):
-    list_display = ('documents_name', 'documents_slug', 'documents_birth_date')
-    list_filter = ['documents_name']
-    search_fields = ['documents_name', 'documents_slug']
-    save_on_top = True
-    prepopulated_fields = {'documents_slug': ('documents_name',)}
-
-
 admin.site.register(Contact, ContactsAdmin)
-admin.site.register(Documents, DocumentsAdmin)

@@ -4,6 +4,7 @@ from django.core.mail import EmailMessage
 from django.conf import settings
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.decorators import login_required
+from idocsapp.system.models import Documents
 
 
 @login_required
@@ -39,3 +40,15 @@ def calendar(request):
 @login_required
 def profile(request):
     return render(request, 'system/profile.html')
+
+
+@login_required
+def desbravador41_31(request):
+    list_documents = Documents.objects.order_by('documents_name')
+    return render(request, 'system/desbravador41_31.html', {'list_documents': list_documents})
+
+
+# @login_required
+# def rol(request):
+#     list_documents = Documents.objects.order_by('documents_name')
+#     return render(request, 'system/rol.html', {'list_documents': list_documents})
