@@ -6,7 +6,7 @@ from .forms import RegisterForm
 
 
 def register(resquest):
-    template_name = 'register.html'
+    template_name = 'account/register.html'
     if resquest.method == 'POST':
         form = RegisterForm(resquest.POST, resquest.FILES)
         if form.is_valid():

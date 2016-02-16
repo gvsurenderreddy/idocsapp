@@ -71,12 +71,12 @@
                                 <li><!-- start message -->
                                     <a href="#">
                                         <div class="pull-left">
-                                            <img src="{% static 'images/Colaboradores/avatar/jales.jpg' %}"
+                                            <img src="{{ user.avatar.url }}"
                                                  class="img-circle" alt="User Image"/>
                                         </div>
                                         <h4>
-                                            Support Team
-                                            <small><i class="fa fa-clock-o"></i> 5 mins</small>
+                                            Time de suporte
+                                            <small><i class="fa fa-clock-o"></i> 5 min</small>
                                         </h4>
                                         <p>Why not buy a new awesome theme?</p>
                                     </a>
@@ -85,11 +85,11 @@
                                 <li>
                                     <a href="#">
                                         <div class="pull-left">
-                                            <img src="img/avatar2.png" class="img-circle" alt="user image"/>
+                                            <img src="{{ user.avatar.url }}" class="img-circle" alt="user image"/>
                                         </div>
                                         <h4>
-                                            AdminLTE Design Team
-                                            <small><i class="fa fa-clock-o"></i> 2 hours</small>
+                                            iDocs Design Team
+                                            <small><i class="fa fa-clock-o"></i> 2 horas</small>
                                         </h4>
                                         <p>Why not buy a new awesome theme?</p>
                                     </a>
@@ -97,12 +97,12 @@
                                 <li>
                                     <a href="#">
                                         <div class="pull-left">
-                                            <img src="{% static 'images/Colaboradores/avatar/jales.jpg' %}"
+                                            <img src="{{ user.avatar.url }}"
                                                  class="img-circle" alt="user image"/>
                                         </div>
                                         <h4>
-                                            Developers
-                                            <small><i class="fa fa-clock-o"></i> Today</small>
+                                            Desenvolvedores
+                                            <small><i class="fa fa-clock-o"></i> Hoje</small>
                                         </h4>
                                         <p>Why not buy a new awesome theme?</p>
                                     </a>
@@ -110,11 +110,11 @@
                                 <li>
                                     <a href="#">
                                         <div class="pull-left">
-                                            <img src="img/avatar2.png" class="img-circle" alt="user image"/>
+                                            <img src="{{ user.avatar.url }}" class="img-circle" alt="user image"/>
                                         </div>
                                         <h4>
-                                            Sales Department
-                                            <small><i class="fa fa-clock-o"></i> Yesterday</small>
+                                            Departamento de vendas
+                                            <small><i class="fa fa-clock-o"></i> Ontem</small>
                                         </h4>
                                         <p>Why not buy a new awesome theme?</p>
                                     </a>
@@ -122,18 +122,18 @@
                                 <li>
                                     <a href="#">
                                         <div class="pull-left">
-                                            <img src="img/avatar.png" class="img-circle" alt="user image"/>
+                                            <img src="{{ user.avatar.url }}" class="img-circle" alt="user image"/>
                                         </div>
                                         <h4>
                                             Reviewers
-                                            <small><i class="fa fa-clock-o"></i> 2 days</small>
+                                            <small><i class="fa fa-clock-o"></i> 2 dias</small>
                                         </h4>
                                         <p>Why not buy a new awesome theme?</p>
                                     </a>
                                 </li>
                             </ul>
                         </li>
-                        <li class="footer"><a href="#">See All Messages</a></li>
+                        <li class="footer"><a href="#">Ver todas as mensagens</a></li>
                     </ul>
                 </li>
                 <!-- Notifications: style can be found in dropdown.less -->
@@ -143,13 +143,13 @@
                         <span class="label label-warning">10</span>
                     </a>
                     <ul class="dropdown-menu">
-                        <li class="header">You have 10 notifications</li>
+                        <li class="header">Você tem 10 notificações</li>
                         <li>
                             <!-- inner menu: contains the actual data -->
                             <ul class="menu">
                                 <li>
                                     <a href="#">
-                                        <i class="ion ion-ios7-people info"></i> 5 new members joined today
+                                        <i class="ion ion-ios7-people info"></i> 5 novos mebros se juntaram hoje
                                     </a>
                                 </li>
                                 <li>
@@ -160,18 +160,18 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="fa fa-users warning"></i> 5 new members joined
+                                        <i class="fa fa-users warning"></i> 5 novos mebros se juntaram hoje
                                     </a>
                                 </li>
 
                                 <li>
                                     <a href="#">
-                                        <i class="ion ion-ios7-cart success"></i> 25 sales made
+                                        <i class="ion ion-ios7-cart success"></i> 25 vedas feitas
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <i class="ion ion-ios7-person danger"></i> You changed your username
+                                        <i class="ion ion-ios7-person danger"></i> você mudou seu nome de usuário
                                     </a>
                                 </li>
                             </ul>
@@ -186,7 +186,7 @@
                         <span class="label label-danger">9</span>
                     </a>
                     <ul class="dropdown-menu">
-                        <li class="header">You have 9 tasks</li>
+                        <li class="header">você tem 9 tarefas</li>
                         <li>
                             <!-- inner menu: contains the actual data -->
                             <ul class="menu">
@@ -308,7 +308,7 @@
             <div class="user-panel">
                 <div class="pull-left image">
 
-                    <img src="{% static 'images/Colaboradores/avatar/jales.jpg' %}" class="img-circle"
+                    <img src="{{ user.avatar.url }}" class="img-circle"
                          alt="User Image"/>
                 </div>
                 <div class="pull-left info">
@@ -360,7 +360,7 @@
                 <li>
                     <a href="{% url 'system:calendar' %}">
                         <i class="fa fa-calendar"></i> <span>Calendário</span>
-                        <small class="badge pull-right bg-red">3</small>
+                        {#                        <small class="badge pull-right bg-red">3</small>#}
                     </a>
                 </li>
                 <li>
