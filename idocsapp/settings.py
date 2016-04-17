@@ -133,7 +133,7 @@ EMAIL_HOST_USER = "backup@logicasuporte.com.br"
 EMAIL_HOST_PASSWORD = "LogicaSuporte2015"
 EMAIL_USE_TLS = True
 
-CONTACT_EMAIL = ['jales_holanda@me.com', 'giovani@logicasuporte.com.br']
+CONTACT_EMAIL = 'jalesholanda@gmail.com'
 
 # Autho
 LOGIN_URL = 'account:login'
