@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="414bc608-7f02-4fc8-bd4b-8ecd0f88277b" name="Default" comment="Atualizacao do wsgi, settings para ajeitar o servidor de arquivos staticos e style.css pra ajeitar a variacao do menu de acordo com as telas">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/banner_ROL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/banner_distribuidor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/bannerwebGERAL.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/bannerweb_gas.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/bannerweb_hotelaria.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/bannerweb_iPDV.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/agendar.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/bolabranca.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/faviconold.ico" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/system/admin.py" afterPath="$PROJECT_DIR$/idocsapp/system/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/base.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/basesystem.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/basesystem.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/download.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/download.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/index.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/system/models.py" afterPath="$PROJECT_DIR$/idocsapp/system/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/settings.py" afterPath="$PROJECT_DIR$/idocsapp/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/system/urls.py" afterPath="$PROJECT_DIR$/idocsapp/system/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/system/views.py" afterPath="$PROJECT_DIR$/idocsapp/system/views.py" />
+    <list default="true" id="414bc608-7f02-4fc8-bd4b-8ecd0f88277b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="iDocs.iws" />
@@ -710,7 +691,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455472799529</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Atualização Linkidin, link ammy, criacao da agenda, mudanca das fotos">
+      <created>1460858802304</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1460858802305</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -726,20 +713,20 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32714054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.48949918" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2784091" sideWeight="0.51857835" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19886364" sideWeight="0.48142165" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30113637" sideWeight="0.49192247" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32714054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.48949918" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -788,7 +775,8 @@
     <MESSAGE value="initial full" />
     <MESSAGE value="eliminacao do import from Carbon.Aliases import true" />
     <MESSAGE value="Atualizacao do wsgi, settings para ajeitar o servidor de arquivos staticos e style.css pra ajeitar a variacao do menu de acordo com as telas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizacao do wsgi, settings para ajeitar o servidor de arquivos staticos e style.css pra ajeitar a variacao do menu de acordo com as telas" />
+    <MESSAGE value="Atualização Linkidin, link ammy, criacao da agenda, mudanca das fotos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização Linkidin, link ammy, criacao da agenda, mudanca das fotos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
