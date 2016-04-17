@@ -39,3 +39,37 @@ class Documents(models.Model):
         verbose_name = 'Documentos'
         verbose_name_plural = 'Documentos'
         ordering = ['documents_name']
+
+class Agendar(models.Model):
+    CONTACT_UTIL_CHOICE = (
+
+        ('colaborador', 'Colaborador'),
+        ('cliente', 'Cliente'),
+        ('fornecedor', 'Fornecedor'),
+        ('prestador de servico', 'Prestador de servico'),
+        ('logica', 'Logica'),
+
+    )
+
+    contact_name = models.CharField('Name', max_length=100)
+    contact_slug = models.SlugField('Atalho')
+    contact_type = models.CharField('Grupo', max_length=100, choices=CONTACT_UTIL_CHOICE, blank=True)
+    contact_email = models.EmailField('E-mail',max_length=100, blank=True)
+    contact_ddd = models.IntegerField('DDD', blank=True)
+    contact_main_number = models.IntegerField('Principal')
+    contact_fix_number = models.IntegerField('Fixo', blank=True, null=True)
+    contact_cellphone_number = models.IntegerField('Celular', blank=True, null=True)
+    contact_notes = models.TextField('Notes', max_length=200, blank=True)
+    contact_date_created_at = models.DateTimeField('Criado em', auto_now_add=True)
+
+    def __str__(self):
+        return self.contact_name
+
+    @models.permalink
+    def get_absolute_url(self):
+        return ('site:agendar.html', (), {'contact_slug': self.course_slug})
+
+    class Meta:
+        verbose_name = 'Agenda'
+        verbose_name_plural = 'Agenda'
+        ordering = ['contact_name']

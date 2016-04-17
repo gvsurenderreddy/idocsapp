@@ -4,7 +4,7 @@ from django.core.mail import EmailMessage
 from django.conf import settings
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.decorators import login_required
-from idocsapp.system.models import Documents
+from idocsapp.system.models import Documents, Agendar
 
 
 @login_required
@@ -35,6 +35,12 @@ def institucionaldocs(request):
 @login_required
 def calendar(request):
     return render(request, 'system/calendar.html')
+
+
+@login_required
+def agendar(request):
+    list_agendar = Agendar.objects.order_by('contact_name')
+    return render(request, 'system/agendar.html', {'list_agendar': list_agendar})
 
 
 @login_required
