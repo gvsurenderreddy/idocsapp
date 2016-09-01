@@ -38,7 +38,7 @@ class UserManager(BaseUserManager):
 
 
 class User(AbstractBaseUser, PermissionsMixin):
-    username = models.CharField(_('Usuario'), max_length=15, unique=True,
+    username = models.CharField(_('Login'), max_length=15, unique=True,
                                 help_text=_('Requeridos 15 caracteres ou menos. so pode conter Letras, \
                     nnmeros e @/./+/-/_'),
                                 validators=[
@@ -70,8 +70,8 @@ class User(AbstractBaseUser, PermissionsMixin):
     objects = UserManager()
 
     class Meta:
-        verbose_name = _('Usuario')
-        verbose_name_plural = _('Usuarios')
+        verbose_name = _('Usuário')
+        verbose_name_plural = _('Usuários')
 
     def get_full_name(self):
         full_name = '%s %s' % (self.first_name, self.last_name)
@@ -82,3 +82,6 @@ class User(AbstractBaseUser, PermissionsMixin):
 
     def email_user(self, subject, message, from_email=None):
         send_mail(subject, message, from_email, [self.email])
+
+    def _unicode_(self):
+        return self.username

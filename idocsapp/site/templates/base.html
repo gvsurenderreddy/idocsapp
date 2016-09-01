@@ -16,7 +16,7 @@
     <link href="{% static 'css/site/style.css' %}" rel="stylesheet">
     {% block extrastyle %}{% endblock %}
     <!-- Icon TAB -->
-    <link rel="icon" href="{% static 'images/favicon.ico' %}">
+    <link rel="icon" href="{% static 'images/site/favicon.ico' %}">
     {% block extraicon %}{% endblock %}
     <!-- Custom Fonts -->
     <link href="{% static 'fonts/font-awesome/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
@@ -50,7 +50,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a href="/">
-                <img alt="Brand" class="imglogo" src="{% static 'images/logo-logica-grande-alta-trasnp.png' %}">
+                <img alt="Brand" class="imglogo" src="{% static 'images/site/logo-logica-grande-alta-trasnp.png' %}">
             </a>
         </div>
         <div id="navbar" class="navbar-collapse collapse" style="font-size: 18px;">
@@ -77,7 +77,28 @@
                         <li><a href="/#recent-works">Mailing</a></li>
                     </ul>
                 </li>
-                <li><a href="{% url 'account:login' %}">Login do Colaborador</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                       aria-haspopup="true"
+                       aria-expanded="false">Área do Colaborador<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="dropdown-header">Serviços</li>
+                        <li>
+                            <a href="http://docs.logicasuporte.com.br"
+                               target="_blank">Drive Lógica</a>
+                        </li>
+                        <li><a href="http://webmail.logicasuporte.com.br" target="_blank">Mail Lógica</a></li>
+                        <li>
+                        <li role="separator" class="divider"></li>
+                        <li>
+                            <a href="{% url 'account:login' %}">
+                                <button type="button" class="btn btn-default btn-md" style="margin-left: 20%">
+                                 <span class="glyphicon glyphicon-user" aria-hidden="true" ></span> Login
+                                </button>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
             </ul>
         </div>
     </div>
@@ -94,7 +115,7 @@
                     <div class="sombra">
                         <a class="a" href="#">
                             <img class="img-logo-footer"
-                                 src="{% static 'images/logo-logica-grande-alta-trasnp.png' %}"
+                                 src="{% static 'images/site/logo-logica-grande-alta-trasnp.png' %}"
                                  alt="latest Little Neko news"
                                  id="footerLogo">
                         </a>
@@ -121,8 +142,8 @@
                     </p>
 
                     <p>
-                        Desenvolvido por J@lsTeam / <a class="a" href="https://twitter.com/@jales_sales"
-                                                       target="_blank">@jales_sales</a>
+                        Desenvolvido por <a class="a" href="https://br.linkedin.com/in/jales-holanda-b3b62861"
+                                                       target="_blank">Jales Holanda</a> da J@lsTeam.
                     </p>
                 </div>
                 <div class="col-sm-3">
@@ -151,90 +172,104 @@
                         <li>
                             <a href="https://www.linkedin.com/in/carolina-moreira-a629a67a"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/carol.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/carol.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://www.facebook.com/profile.php?id=100000236087330&fref=ts"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/charles.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/charles.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://www.facebook.com/claudia.kohl.37?fref=ts"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/claudia.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/claudia.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://www.facebook.com/eduardo.iranilson?pnref=friends.search"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/eduardo.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/eduardo.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/elania.lins.18?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/site/Colaboradores/elania.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://www.facebook.com/elvanio?fref=ts"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/elvanio.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/elvanio.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://www.facebook.com/giovani.paludoguerra?fref=ts"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/giovani.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/giovani.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://br.linkedin.com/in/gustavomortari"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/gustavo.jpg' %}" alt=""
-                                                   style="width: 50px;"></a>
-
-                        </li>
-                        <li>
-                            <a href="https://br.linkedin.com/in/gutonicacio"
-                               target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/guto.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/gustavo.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://br.linkedin.com/in/jales-holanda-b3b62861"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/jales.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/jales.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
                         </li>
                         <li>
                             <a href="https://www.facebook.com/profile.php?id=100009323882078&fref=ts"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/jessica.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/jessica.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/leandro.fontinele.54?fref=ts"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/site/Colaboradores/leandro.jpg' %}" alt=""
+                                                   style="width: 50px;"></a>
+
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/guerra.leila?fref=pb&hc_location=friends_tab&pnref=friends.all"
+                               target="blank"><img class="media-object"
+                                                   src="{% static 'images/site/Colaboradores/leila.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://www.facebook.com/leopoldopeixoto.cardoso?fref=ts"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/leopoldo.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/leopoldo.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://www.facebook.com/lorena.prado.543?fref=ts"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/lorena.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/lorena.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
 
                         </li>
                         <li>
                             <a href="https://www.facebook.com/maxsuelder.nogueira?fref=ts"
                                target="blank"><img class="media-object"
-                                                   src="{% static 'images/Colaboradores/max.jpg' %}" alt=""
+                                                   src="{% static 'images/site/Colaboradores/max.jpg' %}" alt=""
                                                    style="width: 50px;"></a>
                         </li>
                     </ul>
@@ -243,7 +278,7 @@
                     <h4>Autorizado:</h4>
                     <a href="http://www.desbravador.com.br/br/index.php" target="_blank">
                         <img class="img-logo-desbra-footer"
-                             src="{% static 'images/logo-desbravador-pequena-baixa.png' %}">
+                             src="{% static 'images/site/logo-desbravador-pequena-baixa.png' %}">
                     </a>
                 </div>
             </div>

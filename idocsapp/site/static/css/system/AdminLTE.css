@@ -135,7 +135,7 @@ body.fixed .wrapper {
 }
 
 .content-img {
-    background-image: url("../../images/logo-redondo-logica.png");
+    background-image: url("../../images/site/logo-redondo-logica.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 40%;
@@ -4005,5 +4005,5 @@ fieldset[disabled] .btn-vk.active {
 }
 
 .system {
-    background: url("../../images/logo-logica-grande-alta-trasnp.png") repeat center center fixed;
+    background: url("../../images/site/logo-logica-grande-alta-trasnp.png") repeat center center fixed;
 }
