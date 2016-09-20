@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 from django.db import models
 import datetime
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 from django.utils import timezone
 from geoposition.fields import GeopositionField
 from localflavor.br.forms import BRPhoneNumberField
@@ -10,14 +13,39 @@ from localflavor.br.br_states import STATE_CHOICES
 class Documents(models.Model):
     DOCUMENTS_TYPE_CHOICE = (
 
-        ('desbravador41_31', 'Desbravador41_31'),
-        ('desbravador Light3', 'Desbravador Light3'),
+        ('desbravador 41_31', 'Desbravador 41_31'),
+        ('light 3', 'Light 3'),
         ('desbravador Easy special', 'Desbravador Easy special'),
+        ('light', 'Light'),
+        ('light Web', 'Light Web'),
         ('rol', 'ROL'),
+        ('ipdv', 'IPDV'),
+        ('gas', 'Gas'),
+        ('fast', 'Fast'),
 
     )
 
-    documents_type = models.CharField('Tipo do documento', max_length=100, choices=DOCUMENTS_TYPE_CHOICE)
+    DOCUMENTS_MODULE_TYPE_CHOICE = (
+
+        ('gerência hoteleira', 'Gerência Hoteleira'),
+        ('financeiro', 'Financeiro'),
+        ('estoque', 'Estoque'),
+        ('tarifador', 'Tarifador'),
+        ('PDVA', 'PDVA'),
+        ('contábil', 'Contábil'),
+        ('CRM_Fidelidade', 'CRM_Fidelidade'),
+        ('rol', 'ROL'),
+        ('fiscal', 'Fiscal'),
+        ('eventos', 'Eventos'),
+        ('condomínio', 'Condomínio'),
+        ('gas', 'Gas'),
+        ('Fast', 'Fast'),
+
+    )
+
+
+    documents_type = models.CharField('Sistema', max_length=100, choices=DOCUMENTS_TYPE_CHOICE)
+    documents_module_type = models.CharField('Módulo', max_length=100, choices=DOCUMENTS_MODULE_TYPE_CHOICE)
     documents_name = models.CharField('Nome', max_length=100)
     documents_subject = models.CharField('Assunto', max_length=100)
     documents_slug = models.SlugField('Atalho')
@@ -31,9 +59,10 @@ class Documents(models.Model):
     def __str__(self):
         return self.documents_name
 
+
     @models.permalink
     def get_absolute_url(self):
-        return ('site:teste.html', (), {'documents_slug': self.course_slug})
+        return ('site:index.html', (), {'documents_slug': self.course_slug})
 
     class Meta:
         verbose_name = 'Documentos'
@@ -47,7 +76,7 @@ class Agendar(models.Model):
         ('cliente', 'Cliente'),
         ('fornecedor', 'Fornecedor'),
         ('prestador de servico', 'Prestador de servico'),
-        ('logica', 'Logica'),
+        ('lógica', 'Lógica'),
 
     )
 
@@ -59,7 +88,7 @@ class Agendar(models.Model):
     contact_main_number = models.IntegerField('Principal')
     contact_fix_number = models.IntegerField('Fixo', blank=True, null=True)
     contact_cellphone_number = models.IntegerField('Celular', blank=True, null=True)
-    contact_notes = models.TextField('Notes', max_length=200, blank=True)
+    contact_notes = models.TextField('Obs', max_length=200, blank=True)
     contact_date_created_at = models.DateTimeField('Criado em', auto_now_add=True)
 
     def __str__(self):

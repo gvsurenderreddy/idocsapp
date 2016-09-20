@@ -1,0 +1,127 @@
+{% extends 'system/basesystem.html' %}
+{% load static %}
+{% block content %}
+
+    <aside class="right-side">
+        <section class="content-header">
+            <h1>
+                Assuntos
+            </h1>
+            <ol class="breadcrumb">
+                <li><a href="/"><i class="fa fa-sitemap"></i> Site</a></li>
+                <li><a href="{% url 'system:dashboard' %}"><i class="fa fa-dashboard"></i> Dashboard</a></li>
+                <li><a href="{% url 'system:hotelariadocs' %}"><i class="fa fa-bed"></i> Hotelaria</a></li>
+                <li class="active">Assuntos</li>
+            </ol>
+        </section>
+
+        <!-- Main content -->
+            <section class="content">
+                <div class="row">
+                    <div class="box">
+                        <div class="box-header">
+                            <h3 class="box-title">Lista de assuntos do Light3</h3>
+                        </div>
+                    </div>
+                    <!-- /.box -->
+                </div>
+
+                <div class="row">
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31docs' %}" class="small-box-footer">
+                        <div class="box box-solid bg-blue">
+                            <div class="box-header" ><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">Gerência Hoteleira </h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-red">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">Gerência Financeira</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-green">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">Controle de estoque </h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div><!-- /.row -->
+
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-orange">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">PDVA</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-gray">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">Tarifador</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-navy">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">Livros Fiscais</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div><!-- /.row -->
+
+                <div class="row">
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-yellow">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">Eventos</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-maroon">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">CRM e Fidelidade</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-olive">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">Condomínio</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div><!-- /.row -->
+            </section>
+            <!-- /.content -->
+    </aside>
+{% endblock %}

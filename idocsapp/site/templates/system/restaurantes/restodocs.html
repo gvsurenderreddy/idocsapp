@@ -1,0 +1,53 @@
+{% extends 'system/basesystem.html' %}
+{% load static %}
+{% block content %}
+
+    <aside class="right-side">
+        <section class="content-header">
+            <h1>
+                Restaurantes
+                <small>Docs</small>
+            </h1>
+            <ol class="breadcrumb">
+                <li><a href="/"><i class="fa fa-sitemap"></i> Site</a></li>
+                <li><a href="{% url 'system:dashboard' %}"><i class="fa fa-dashboard"></i>Dashboard</a></li>
+                <li class="active">Restaurantes</li>
+            </ol>
+        </section>
+
+        <!-- Main content -->
+        <section class="content">
+            <p class="pull-right visible-xs">
+                <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+            </p>
+            <div class="jumbotron" style="padding-left: 2%;">
+                <h1 class="fa fa-cutlery fa-5x">Restaurantes</h1>
+
+                <p>Nesta página encontra-se as documentações necessárias para os assuntos dos sistemas de restaurantes e seus aplicativos</p>
+
+                <a href="{% url 'admin:system_documents_add' %}" >
+                    <button class="btn btn-default btn-sm"><i class="fa fa-plus"></i>
+                        Adicionar Documento
+                    </button>
+                </a>
+            </div>
+
+            <h4 class="page-header">
+                Vejas os documentos a seguir
+            </h4>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="{% url 'system:desbravador41_31' %}" class="small-box-footer">
+                        <div class="box box-solid bg-blue">
+                            <div class="box-header"><i class="fa fa-arrow-circle-right"></i>
+                                <h3 class="box-title">Fast</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div><!-- /.row -->
+        </section>
+        <!-- /.content -->
+    </aside><!-- /.right-side -->
+{% endblock %}

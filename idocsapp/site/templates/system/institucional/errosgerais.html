@@ -1,0 +1,135 @@
+{% extends 'system/basesystem.html' %}
+{% load static %}
+{% block content %}
+
+    <aside class="right-side">
+        <section class="content-header">
+            <h1>
+                Erros Gerais
+                <small>Categorias</small>
+            </h1>
+            <ol class="breadcrumb">
+                <li><a href="/"><i class="fa fa-sitemap"></i> Site</a></li>
+                <li><a href="{% url 'system:dashboard' %}"><i class="fa fa-dashboard"></i> Dashboard</a></li>
+                <li class="active">Erros gerais</li>
+            </ol>
+        </section>
+
+        <!-- Main content -->
+            <section class="content">
+                <div class="row">
+                    <div class="box">
+                        <div class="box-header">
+                            <h3 class="box-title">Erros por categoria</h3>
+                        </div>
+                    </div>
+                    <!-- /.box -->
+                </div>
+                <div class="row">
+                        <div class="col-md-4">
+                            <!-- Navy tile -->
+                            <div class="box box-solid bg-navy">
+                                <div class="box-header">
+                                    <h3 class="box-title">Macetes</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+
+                        <div class="col-md-4">
+                            <!-- Primary tile -->
+                            <div class="box box-solid bg-red">
+                                <div class="box-header">
+                                    <h3 class="box-title">Impressora fiscal</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+
+                        <div class="col-md-4">
+                            <!-- Info box -->
+                            <div class="box box-solid bg-green">
+                                <div class="box-header">
+                                    <h3 class="box-title">Nota de produto</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+
+                    <div class="row">
+                        <div class="col-md-4">
+                            <!-- Danger box -->
+                            <div class="box box-solid bg-orange">
+                                <div class="box-header">
+                                    <h3 class="box-title">Nota de serviço</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+
+                        <div class="col-md-4">
+                            <!-- Success box -->
+                            <div class="box box-solid bg-aqua">
+                                <div class="box-header">
+                                    <h3 class="box-title">IPDV</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+
+                        <div class="col-md-4">
+                            <!-- Warning box -->
+                            <div class="box box-solid bg-yellow">
+                                <div class="box-header">
+                                    <h3 class="box-title">ROL</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                    <div class="row">
+                        <div class="col-md-4">
+                            <!-- Purple tile -->
+                            <div class="box box-solid bg-purple">
+                                <div class="box-header">
+                                    <h3 class="box-title">SPED</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+
+                        <div class="col-md-4">
+                            <!-- Blue tile -->
+                            <div class="box box-solid bg-blue">
+                                <div class="box-header">
+                                    <h3 class="box-title">FAST</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+
+                        <div class="col-md-4">
+                            <!-- Maroon tile -->
+                            <div class="box box-solid bg-maroon">
+                                <div class="box-header">
+                                    <h3 class="box-title">TEF</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+                <div class="row">
+                        <div class="col-md-4">
+                            <!-- Purple tile -->
+                            <div class="box box-solid bg-blue">
+                                <div class="box-header">
+                                    <h3 class="box-title">Banco de dados</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+
+                        <div class="col-md-4">
+                            <!-- Maroon tile -->
+                            <div class="box box-solid bg-maroon">
+                                <div class="box-header">
+                                    <h3 class="box-title">Relatórios</h3>
+                                </div>
+                            </div><!-- /.box -->
+                        </div><!-- /.col -->
+                    </div><!-- /.row -->
+            </section>
+            <!-- /.content -->
+    </aside>
+{% endblock %}

@@ -52,7 +52,7 @@ class User(AbstractBaseUser, PermissionsMixin):
     end = models.EmailField(_('Endereco'), max_length=255)
     city = models.EmailField(_('Cidade'), max_length=255)
     state = models.EmailField(_('Estado'), max_length=255)
-    tel = models.IntegerField(_('Telefone'), max_length=255)
+    tel = models.IntegerField(_('Telefone'))
     funcion = models.CharField(_('Cargo'), max_length=30)
     is_staff = models.BooleanField(_('E da equipe'), default=False,
                                    help_text=_('Designa se o usuario pode registrar neste local do admin.'))

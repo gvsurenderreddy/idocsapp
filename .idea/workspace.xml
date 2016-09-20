@@ -2,175 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab34b992-bfe1-472c-9256-ca458d3b0929" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/LightWeb/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/LightWeb/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/LightWeb/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/LightWeb/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/LightWeb/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/4.1/4.1-balanco-estoque.JPG" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/4.1/4.1-balanco-estoque.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/sort_asc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/sort_asc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/sort_both.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/sort_desc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/sort_desc_disabled.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/avatar/giovani.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/giovani.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/avatar/jales.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/avatar/jales.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/carol.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/carol.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/charles.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/charles.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/claudia.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/claudia.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/eduardo.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/eduardo.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/elvanio.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/elvanio.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/giovani.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/avatar/giovani.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/gustavo.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/gustavo.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/guto.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/guto.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/jales.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/jales.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/jessica.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/jessica.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/leopoldo.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/leopoldo.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/lorena.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/lorena.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Colaboradores/max.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Colaboradores/max.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/3.1/3.1-entrada-de-nota.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/3.1/3.1-entrada-de-nota.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/3.1/3.1-financeiro-painel-de-duplicatas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/3.1/3.1-financeiro-painel-de-duplicatas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/3.1/3.1-listagem-de-diarias.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/3.1/3.1-listagem-de-diarias.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/3.1/3.1-mapa-de-mesas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/3.1/3.1-mapa-de-mesas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/3.1/3.1-mapa-de-reservas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/3.1/3.1-mapa-de-reservas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/3.1/3.1-mapa-imagem-quarto.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/3.1/3.1-mapa-imagem-quarto.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/3.1/3.1-previsao-de-faturamento.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/3.1/3.1-previsao-de-faturamento.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/4.1/4.1-bilhete.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/4.1/4.1-bilhete.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/4.1/4.1-financeiro-painel-de-duplicatas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/4.1/4.1-financeiro-painel-de-duplicatas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/4.1/4.1-mapa-de-mesas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/4.1/4.1-mapa-de-mesas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/4.1/4.1-mapa-de-reservas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/4.1/4.1-mapa-de-reservas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/4.1/4.1-mapa-imagem-quarto.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/4.1/4.1-mapa-imagem-quarto.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/4.1/4.1-segmentacao.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/4.1/4.1-segmentacao.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-caixa.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-caixa.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-favoritos.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-favoritos.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-financeiro.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-financeiro.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-lancamento.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-lancamento.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-painel.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-painel.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-pdv.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-pdv.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-plano-financeiro.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-plano-financeiro.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-requisicao.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-requisicao.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/FAST/fast-solicitacao.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/FAST/fast-solicitacao.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-analise-de-vendas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-analise-de-vendas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-bomba.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-bomba.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-caixa-detalhado.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-caixa-detalhado.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-caixa.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-caixa.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-entrada-de-nota.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-entrada-de-nota.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-estoque-bombas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-estoque-bombas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-favoritos-um.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-favoritos-um.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-favoritos.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-favoritos.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-fiscal.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-fiscal.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-livro-de-movimentaçao.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-livro-de-movimentaçao.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-pagamento-vale.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-pagamento-vale.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-painel-tabela.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-painel-tabela.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-painel.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-painel.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-pdv.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-pdv.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-plano-financeiro.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-plano-financeiro.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-produtos-estoque.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-produtos-estoque.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-produtos-vendas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-produtos-vendas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-produtos.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-produtos.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-sped.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-sped.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-titulo-a-receber.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-titulo-a-receber.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas-vendas-por-hora.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas-vendas-por-hora.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/gas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/gas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/GAS/liquorstore_5_m_v1.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/GAS/liquorstore_5_m_v1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/L3/L3-PDV.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/L3/L3-PDV.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/L3/L3-caixa.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/L3/L3-caixa.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/L3/L3-estatisticas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/L3/L3-estatisticas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/L3/L3-estoque.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/L3/L3-estoque.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/L3/L3-financeiro.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/L3/L3-financeiro.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/L3/L3-mapra-de-apartamento.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/L3/L3-mapra-de-apartamento.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/L3/L3-reservas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/L3/L3-reservas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/Light/light-geral.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/Light/light-geral.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/Light/light-mapa-de-apartamentos.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/Light/light-mapa-de-apartamentos.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/Light/light-reservas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/Light/light-reservas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/ROL/rol-admin.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/ROL/rol-admin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/ROL/rol-data.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/ROL/rol-data.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/ROL/rol-disponibilidade.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/ROL/rol-disponibilidade.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/ROL/rol-graficos.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/ROL/rol-graficos.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/ROL/rol-pagamento.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/ROL/rol-pagamento.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/ROL/rol-rm.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/ROL/rol-rm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/easy/easy-cafe.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/easy/easy-cafe.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/easy/easy-caixa.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/easy/easy-caixa.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/easy/easy-mapa-de-apartamento.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/easy/easy-mapa-de-apartamento.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/easy/easy-rds.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/easy/easy-rds.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Fotos sistema/easy/easy-reservas.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/easy/easy-reservas.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Parceiros/amuarama.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Parceiros/amuarama.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Parceiros/crocobeach.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Parceiros/crocobeach.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Parceiros/granhotel.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Parceiros/granhotel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Parceiros/holiday.JPG" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Parceiros/holiday.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Parceiros/praia.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Parceiros/praia.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/Parceiros/solar.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/Parceiros/solar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner-50-melhores.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner-50-melhores.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner-distribuidor-500.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner-distribuidor-500.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner-distribuidor.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner-distribuidor.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner-hoteis.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner-hoteis.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner-posto.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner-posto.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner-restaurante.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner-restaurante.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner_ROL.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner_ROL.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner_desbravador.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner_desbravador.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner_distribuidor.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner_distribuidor.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner_paises.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner_paises.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/banner_sua_empresa.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/banner_sua_empresa.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/bannerwebGERAL.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/bannerwebGERAL.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/bannerweb_gas.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/bannerweb_gas.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/bannerweb_hotelaria.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/bannerweb_hotelaria.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/bannerweb_iPDV.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/bannerweb_iPDV.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/favicon.ico" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/fond_bleu.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/fond_bleu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-31.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-31.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-41.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-41.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-ammyy.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-ammyy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-ccleaner.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-ccleaner.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-dropbox.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-dropbox.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-easy.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-easy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-fast.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-fast.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-gas.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-gas.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-gas10.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-gas10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-google-drive.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-google-drive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-l3.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-l3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-light.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-light.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-liquor.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-liquor.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-list-hotel.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-list-hotel.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-mega.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-mega.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-proposta.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-proposta.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-revo-unistaller.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-revo-unistaller.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-rol.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-rol.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-showmypc.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-showmypc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-teamviewer.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-teamviewer.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-vnc.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-vnc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/icon-winrar.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/icon-winrar.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/ipdv desbravador 2.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/ipdv desbravador 2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/line-texture-blue.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/line-texture-blue.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-desbravador-cinza-pequeno-baixa.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-desbravador-cinza-pequeno-baixa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-desbravador-grande-alta-trasnp.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-desbravador-grande-alta-trasnp.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-desbravador-grande-alta.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-desbravador-grande-alta.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-desbravador-pequena-baixa.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-desbravador-pequena-baixa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-logica-grande-alta-trasnp.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-logica-grande-alta-trasnp.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-logica-grande-alta.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-logica-grande-alta.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-logica-trasnp-grande-borda.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-logica-trasnp-grande-borda.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-redondo-logica.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-redondo-logica.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logo-rol-500.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logo-rol-500.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/logorol.png" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/logorol.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/neuron-texture.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/neuron-texture.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/static/images/talente center.jpg" afterPath="$PROJECT_DIR$/idocsapp/site/static/images/site/talente center.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravadorLight3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravadorLight3Docs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/gerenciaHoteleiraDocs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/hotelariadocs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/institucional/waitlist.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31docs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/hotelariadocs.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/agendar.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/institucional/agendar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/calendar.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/institucional/calendar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/institucionaldocs.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/institucional/institucionaldocs.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/postodocs.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/postos/postodocs.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/restodocs.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/restaurantes/restodocs.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/static/css/system/AdminLTE.css" afterPath="$PROJECT_DIR$/idocsapp/site/static/css/system/AdminLTE.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/base.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/base.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/basesystem.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/basesystem.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/company.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/company.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/contacts.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/contacts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/contacts_email.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/contacts_email.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/system/dashboard.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/system/dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/download.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/download.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/index.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/account/lockscreen.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/account/lockscreen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/account/login.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/account/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/account/models.py" afterPath="$PROJECT_DIR$/idocsapp/account/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/proposal.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/proposal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/proposal_email.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/proposal_email.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/account/register.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/account/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/static/css/site/style.css" afterPath="$PROJECT_DIR$/idocsapp/site/static/css/site/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/site/templates/teste.html" afterPath="$PROJECT_DIR$/idocsapp/site/templates/teste.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/system/models.py" afterPath="$PROJECT_DIR$/idocsapp/system/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/system/urls.py" afterPath="$PROJECT_DIR$/idocsapp/system/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/idocsapp/system/views.py" afterPath="$PROJECT_DIR$/idocsapp/system/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="idocsapp.iws" />
@@ -187,30 +40,219 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="idocsapp" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="gerenciaHoteleiraDocs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/gerenciaHoteleiraDocs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.125">
+              <caret line="66" column="52" selection-start-line="55" selection-start-column="48" selection-end-line="66" selection-end-column="52" />
+              <folding>
+                <element signature="e#1410#1436#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idocsapp/system/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idocsapp/system/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+              <folding>
+                <element signature="e#24#88#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basesystem.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/basesystem.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-35.291668">
+              <caret line="382" column="50" selection-start-line="382" selection-start-column="50" selection-end-line="382" selection-end-column="50" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#li#3;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agendar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/agendar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.01227">
+              <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+              <folding>
+                <element signature="e#1146#1172#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hotelariadocs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/hotelariadocs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="13.458333">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="postodocs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/postos/postodocs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5">
+              <caret line="20" column="61" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="14" />
+              <folding>
+                <element signature="e#823#848#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restodocs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/restaurantes/restodocs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.041667">
+              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+              <folding>
+                <element signature="e#837#862#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="institucionaldocs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/institucionaldocs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-40.0">
+              <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+              <folding>
+                <element signature="e#839#864#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/idocsapp/site/forms.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/base.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/gerenciaHoteleiraDocs.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/system/admin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/waitlist.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/system/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/basesystem.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/hotelariadocs.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/idocsapp/account/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/system/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/system/views.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/idocsapp/account/forms.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/base.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/index.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/download.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/static/js/system/dataTables.bootstrap.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/calendar.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravadorLight3Docs.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/institucionaldocs.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/settings.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/postos/postodocs.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/dashboard.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/errosgerais.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/agendar.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/forms.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/restaurantes/restodocs.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/account/login.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravadorLight3.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/idocsapp/site/templates/base.html" />
         <option value="$PROJECT_DIR$/idocsapp/site/templates/index.html" />
         <option value="$PROJECT_DIR$/idocsapp/account/models.py" />
+        <option value="$PROJECT_DIR$/idocsapp/quickstart.py" />
+        <option value="$PROJECT_DIR$/quickstart.py" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/errosgerais.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/desbravador41_31.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelariadocs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/desbravador41_31docs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/41/desbravador41_31docs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/base.html" />
+        <option value="dbtable:/e8cabdfd/c8a66d2a-fab3-4e91-9c11-c32a9b714510/..system_documents" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31docs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravador41_31.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravadorLight3Docs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31Docs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravadorLight3.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31.html" />
+        <option value="$PROJECT_DIR$/idocsapp/system/models.py" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/gerenciaHoteleiraDocs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/institucional/calendar.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/dashboard.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/postos/postodocs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/hotelariadocs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/restaurantes/restodocs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/download.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/institucional/institucionaldocs.html" />
+        <option value="$PROJECT_DIR$/idocsapp/system/views.py" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/institucional/waitlist.html" />
+        <option value="$PROJECT_DIR$/idocsapp/system/urls.py" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/basesystem.html" />
+        <option value="$PROJECT_DIR$/idocsapp/site/templates/system/institucional/agendar.html" />
       </list>
     </option>
   </component>
@@ -222,9 +264,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="738" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -249,7 +290,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -296,12 +336,173 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="institucional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotelaria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idocsapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hotelaria" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="41" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -309,10 +510,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/idocsapp/site/templates/system/institucional" />
+      <recent name="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3" />
+      <recent name="$PROJECT_DIR$/idocsapp/site/templates/system" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/LightWeb" />
+      <recent name="$PROJECT_DIR$/idocsapp/site/templates/system/institucional" />
+      <recent name="$PROJECT_DIR$/idocsapp/site/templates/system/restaurantes" />
+      <recent name="$PROJECT_DIR$/idocsapp/site/templates/system/postos" />
+      <recent name="$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria" />
+      <recent name="$PROJECT_DIR$/idocsapp/site/templates/system/41" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.idocsapp">
@@ -556,6 +768,9 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ab34b992-bfe1-472c-9256-ca458d3b0929" name="Default" comment="" />
@@ -566,19 +781,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="738" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21243942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -594,31 +809,110 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28836834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/hotelariadocs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="38" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/gerenciaHoteleiraDocs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#1410#1436#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/system/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/system/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/system/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/hotelariadocs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="32" selection-start-line="33" selection-start-column="11" selection-end-line="95" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/idocsapp/site/static/images/site/Fotos sistema/LightWeb/17.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -628,21 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41208792">
           <caret line="110" column="50" selection-start-line="110" selection-start-column="50" selection-end-line="110" selection-end-column="50" />
-          <folding>
-            <element signature="e#160#203#0#HTML" expanded="true" />
-            <element signature="e#3535#3606#0#HTML" expanded="true" />
-            <element signature="e#4765#4804#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20604396">
-          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#a#0;n#li#5;n#ul#0;n#li#4;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,9 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.77319586">
           <caret line="133" column="23" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
-          <folding>
-            <element signature="e#24#48#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,28 +936,337 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.166667">
           <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/idocsapp/account/forms.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8764045">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/httplib2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="e#24#48#0" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/idocsapp/account/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7212838">
-          <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.5743243">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.17303371">
+          <caret line="153" column="16" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035629455">
+          <caret line="145" column="85" selection-start-line="145" selection-start-column="85" selection-end-line="145" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/static/js/system/jquery.dataTables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33258426">
+          <caret line="11978" column="4" selection-start-line="11978" selection-start-column="4" selection-end-line="11978" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/static/js/system/dataTables.bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2647929">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/errosgerais.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.553681">
+          <caret line="111" column="40" selection-start-line="111" selection-start-column="40" selection-end-line="111" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/e8cabdfd/c8a66d2a-fab3-4e91-9c11-c32a9b714510/..sqlite_sequence">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravadorLight3Docs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/light3/desbravadorLight3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-52.5">
+          <caret line="84" column="57" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/desbravador41_31.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="30" column="81" selection-start-line="30" selection-start-column="81" selection-end-line="30" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/e8cabdfd/c8a66d2a-fab3-4e91-9c11-c32a9b714510/..system_documents">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6213018">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/contrib/admin/templates/admin/actions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/contrib/admin/templates/admin/filter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/contrib/admin/templates/admin/base_site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/contrib/admin/templates/admin/change_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.916666">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/contrib/admin/templates/admin/change_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3926381">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/contrib/admin/templates/admin/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2868098">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/contrib/admin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/contrib/admin/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="612" column="0" selection-start-line="612" selection-start-column="0" selection-end-line="612" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/idocs/lib/python2.7/site-packages/django/template/defaulttags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3757397">
+          <caret line="1372" column="4" selection-start-line="1372" selection-start-column="4" selection-end-line="1372" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/system/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46597633">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="29" />
           <folding>
-            <element signature="e#24#33#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/system/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.020710059">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18404908">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3220859">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#h5#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#button#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/institucionaldocs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-40.0">
+          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
+          <folding>
+            <element signature="e#839#864#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/waitlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18404908">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/system/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding>
+            <element signature="e#24#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/system/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-141.25">
+          <caret line="333" column="41" selection-start-line="333" selection-start-column="41" selection-end-line="333" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/basesystem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-35.291668">
+          <caret line="382" column="50" selection-start-line="382" selection-start-column="50" selection-end-line="382" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#li#3;n#ul#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#li#3;n#ul#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/postos/postodocs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="20" column="61" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="14" />
+          <folding>
+            <element signature="e#823#848#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/restaurantes/restodocs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.041667">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="e#837#862#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/hotelariadocs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.458333">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/hotelaria/41/gerenciaHoteleiraDocs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125">
+          <caret line="66" column="52" selection-start-line="55" selection-start-column="48" selection-end-line="66" selection-end-column="52" />
+          <folding>
+            <element signature="e#1410#1436#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idocsapp/site/templates/system/institucional/agendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.01227">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+          <folding>
+            <element signature="e#1146#1172#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
